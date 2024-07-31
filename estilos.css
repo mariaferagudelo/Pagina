@@ -5,14 +5,14 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(243, 243, 243);
+    color: rgb(7, 7, 7);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("Ld.jpg");
+    background-image: url("fondo2.jpg");
    
 }
 .titulo{
@@ -20,13 +20,275 @@ body{
 font-size: 50px;
 text-align: center;
 color: blue;
-
-
 }
+
+
 .imagen1{
-height: 800px;
-width: 300px;
-background-image: url("circuito.jpg");
+    height: 300px;
+width: 600px;
+background-image: url(circuitos-eléctricos.jpg);
 background-repeat: no-repeat;
-float: right;
+float: center;
+
 }
+
+height: 800px;
+width: 400px
+background-image: url("cir");
+background-repeat: no-repeat;
+float:left;
+
+
+.titulo2{
+
+font-size: 50px;
+text-align: center;
+color: rgb(226, 59, 87);
+}
+
+.titulo3{
+
+font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.titulo4{
+
+font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.titulo5{
+ font-size: 50px;
+text-align: center;
+color: brown;
+}
+
+.imagenm1{
+height: 100px;
+width: 400px;
+background-image: url(polinomiouno.png);
+background-repeat: no-repeat;
+float: center;
+}
+
+.imagenm2{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen2.gif);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen3.gif);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm4{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen4.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm5{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen6.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm6{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen8.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenm7{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagen9.jpg);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+    .titulo6{
+        font-size: 50px;
+       text-align: center;
+       color: brown;
+    }
+
+
+.tituloq1{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.tituloq2{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.tituloq3{
+    font-size: 50px;
+   text-align: center;
+   color: brown;
+}
+
+.imagenq1{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imagenq1.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagenq2{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagenq2.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+.imagenq3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagenq3.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.titulos1{
+
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+
+
+}
+
+.imagens1{height: 300px; ;
+    width: 600px;
+    background-image: url(imagens1.png);
+    background-repeat: no-repeat;
+    float: center;}
+
+    .imagens2{
+        height: 300px; ;
+    width: 600px;
+    background-image: url(imagens2.png);
+    background-repeat: no-repeat;
+    float: center;
+    }
+
+.imagens3{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(Imagens3.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
