@@ -22,6 +22,14 @@ text-align: center;
 color: blue;
 }
 
+.titulom2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(226, 59, 87);
+}
+
+
+
 
 .imagen1{
     height: 300px;
@@ -202,7 +210,130 @@ float: center;
 }
 
 
+.titulos2{
 
+    font-size: 50px;
+    text-align: center;
+    color: brown;
+
+}
+
+.imagenso4{
+    height: 500px; ;
+    width: 1000px;
+    background-image: url(colonias.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.nombre1{
+
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+.nombre2{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+
+
+}
+
+.titulob1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+
+
+}
+
+.imgb1{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(cclb1.jpg) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+.titulob2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+
+}
+
+.imgb2{
+    height: 400px; ;
+    width: 500px;
+    background-image: url(cclb2.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+.titulob3{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtitulob1{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(112, 6, 6);
+}
+
+.imgb3{
+    height: 200px; ;
+    width: 700px;
+    background-image: url(cclb3.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+.titulob4{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtitulob2{
+    font-size: 50px;
+    text-align: left;
+    color: rgb(112, 6, 6);
+}
+
+.imgb4{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(cclb4.png) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.titulob5{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.imgb5{
+    height: 800px; ;
+    width: 800px;
+    background-image: url(cclb5.jpg) ;
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgb6{
+    height: 800px; ;
+    width: 700px;
+    background-image: url(cclb6.png) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
 
 
 
