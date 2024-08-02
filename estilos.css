@@ -336,9 +336,21 @@ float: center;
 }
 
 
+.foto{
+    height: 300px; ;
+    width: 700px;
+    background-image: url(foto.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
 
-
-
+.foto2{
+    height: 300px; ;
+    width: 700px;
+    background-image: url(foto2.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
 
 
 
