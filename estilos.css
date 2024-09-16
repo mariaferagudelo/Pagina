@@ -336,29 +336,79 @@ float: center;
 }
 
 
-.foto{
-    height: 300px; ;
-    width: 700px;
-    background-image: url(foto.jpg) ;
+.maria{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(maria.jpg) ;
     background-repeat: no-repeat;
     float: center;  
 }
 
-.foto2{
-    height: 300px; ;
-    width: 700px;
-    background-image: url(foto2.jpg) ;
+.juan{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(juan\ jose.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
+.imgt3{
+    height: 500px; ;
+    width: 600px;
+    background-image: url("funciones\ en\ excel.jpg") ;
     background-repeat: no-repeat;
     float: center;  
 }
 
+.imgi{
+
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("quimica.123.jpg");
+    background-repeat: no-repeat;
+    float: center;
 
 
+}
 
+.paz{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url(paz.jpg) ;
+    background-repeat: no-repeat;
+    float: center;  
+}
 
+.imgi2{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("biologia.webp");
+    background-repeat: no-repeat;
+    float: center;
+}
 
+.imgi3{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("sociales.webp");
+    background-repeat: no-repeat;
+    float: center; 
+}
 
+.imgi4{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("matematicas.jpg");
+    background-repeat: no-repeat;
+    float: center;
+}
 
+.imgi5{
+    height: 1400px; ;
+    width: 1400px;
+    background-image: url("tecnologia.jpg");
+    background-repeat: no-repeat;
+    float: center;
+}
 
 
 
