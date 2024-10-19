@@ -3,7 +3,7 @@
 .texto{
    
     font-size: 50px;
-    padding-top: 140px;
+    padding-top: 400px;
     text-align: justify;
     color: rgb(7, 7, 7);
 }
@@ -417,75 +417,302 @@ float: center;
     color: rgb(112, 6, 6);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.imagenm8{
+    height: 600px; ;
+    width: 800px;
+    background-image: url(imm3.jpg);
+    background-repeat: no-repeat;
+    float: center;   
+}
+
+.imagenm9{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imm31.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm10{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imm32.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm11{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm33.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm12{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm34.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm13{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm35.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm14{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm36.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm15{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm37.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm16{
+    height: 300px; ;
+    width: 600px;
+    background-image: url(imm38.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm17{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imm39.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm18{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imm310.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm19{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(imm311.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm20{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(imm312.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm21{
+    height: 600px; ;
+    width: 1200px;
+    background-image: url(imm313.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm22{
+    height: 600px; ;
+    width: 700;
+    background-image: url(imm314.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm23{
+    height: 600px; ;
+    width: 700;
+    background-image: url(imm315.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+.imagenm24{
+    height: 600px; ;
+    width: 700;
+    background-image: url(imm16.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm25{
+    
+        height: 600px; ;
+        width: 700;
+        background-image: url(imm317.jpg);
+        background-repeat: no-repeat;
+        float: center; 
+}
+
+.imagenm26{
+    
+        height: 400px; ;
+        width: 400;
+        background-image: url(imm318.jpg);
+        background-repeat: no-repeat;
+        float: center;
+}
+
+.imagenm27{
+    
+        height: 400px; ;
+        width: 400;
+        background-image: url(imm319.jpg);
+        background-repeat: no-repeat;
+        float: center;
+}
+
+.imagenm28{
+    height: 400px; ;
+    width: 400;
+    background-image: url(imm323.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenm29{
+    height: 400px; ;
+    width: 400;
+    background-image: url(imm324.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio1{
+    height: 900px; ;
+    width: 900;
+    background-image: url(imb31.jpg);
+    background-repeat: no-repeat;
+    float: center; 
+}
+
+.titulob31{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtb31{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);
+}
+
+.subtb32{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(211, 20, 20);
+}
+
+.subtb33{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(211, 20, 20);
+}
+
+.imagenbio2{
+    height: 1100px; ;
+    width: 1600px;
+    background-image: url(imb32.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio3{
+    height: 1200px; ;
+    width: 2400px;
+    background-image: url(imb33.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio4{
+    height: 1200px; ;
+    width: 2400px;
+    background-image: url(imb34.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio5{
+    height: 1200px; ;
+    width: 2400px;
+    background-image: url(imb35.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio6{
+    height: 600px; ;
+    width: 700px;
+    background-image: url(imb36.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio7{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(imb37.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio8{
+    height: 800px; ;
+    width: 1200px;
+    background-image: url(imb38.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio9{
+    height: 1000px; ;
+    width: 2400px;
+    background-image: url(imb39.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio10{
+    height: 400px; ;
+    width: 400px;
+    background-image: url(imb40.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio11{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(imb41.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imagenbio12{
+    height: 600px; ;
+    width: 600px;
+    background-image: url(imb42.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
 
 
