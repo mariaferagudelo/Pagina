@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 400px;
+    font-size: 30px;
+    padding-top: 500px;
     text-align: justify;
     color: rgb(7, 7, 7);
 }
@@ -483,7 +483,7 @@ float: center;
 
 .imagenm16{
     height: 300px; ;
-    width: 600px;
+    width: 700px;
     background-image: url(imm38.png);
     background-repeat: no-repeat;
     float: center;
@@ -499,7 +499,7 @@ float: center;
 
 .imagenm18{
     height: 400px; ;
-    width: 600px;
+    width: 800px;
     background-image: url(imm310.jpg);
     background-repeat: no-repeat;
     float: center;
@@ -514,8 +514,8 @@ float: center;
 }
 
 .imagenm20{
-    height: 600px; ;
-    width: 600px;
+    height: 700px; ;
+    width: 800px;
     background-image: url(imm312.jpg);
     background-repeat: no-repeat;
     float: center;
@@ -714,5 +714,354 @@ float: center;
     background-repeat: no-repeat;
     float: center;
 }
+
+.subtm1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);
+}
+
+.subtm2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);
+}
+
+.subtm3{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.subtm4{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);   
+}
+
+.subtm5{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);   
+}
+
+.titulot3{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6);
+}
+
+.subtm6{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm7{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.titulot4{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.subtm8{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm9{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm10{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm11{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm12{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm13{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm14{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtm15{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtb34{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtb35{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20);  
+}
+
+.subtb36{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.subtb37{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.tituloq31{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.tituloq32{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.tituloq33{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.subtq1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.subtq2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.subtq3{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(211, 20, 20); 
+}
+
+.imgq1{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imgq1.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgq2{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imgq2.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgq3{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imgq3.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imgq4{
+    height: 400px; ;
+    width: 600px;
+    background-image: url(imgq4.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.imags1{
+    height: 4000px; ;
+    width: 4000px;
+    background-image: url(imgs1.jpg);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+.titulos31{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.ttlq{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(112, 6, 6); 
+}
+
+.mapa{
+    height: 1600px; ;
+    width: 1600px;
+    background-image: url(imagqui1.png);
+    background-repeat: no-repeat;
+    float: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
